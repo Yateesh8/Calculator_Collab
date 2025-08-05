@@ -7,5 +7,5 @@ public static void main(String[] args){
   int a= sc.nextInt();
   int b= sc.nextInt();
   int c=add(a,b);
-  
+}
 }
