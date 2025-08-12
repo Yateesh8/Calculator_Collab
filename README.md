@@ -60,7 +60,7 @@ java Calculator
 
 | Name        | Operation        | File          |
 |-------------|------------------|---------------|
-| Yateesh8    | Addition          | Add.java      |
+| Yateesh    | Addition          | Add.java      |
 | Naveen      | Subtraction       | Subtract.java |
 | Himanshu    | Multiplication    | Multiply.java |
 | Rameshwar   | Division          | Divide.java   |
